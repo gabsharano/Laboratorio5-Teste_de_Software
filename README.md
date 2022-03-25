@@ -1,4 +1,4 @@
-# Laboratorio5-Teste_de_Software
+# Laboratorio-Teste_de_Software
 
 ## Integrantes:
 
